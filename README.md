@@ -2,7 +2,7 @@
 
 ## Tampilan
 
-https://github.com/SandyRamadhan28/Ci4_Flutter/assets/115614173/e552e3d6-5e6a-4be2-becd-e77a4cbadc80
+https://github.com/SandyRamadhan28/Ci4_Flutter/assets/115614173/44c36d4d-340d-453f-bcf8-93f44889a8d7
 
 # Getting Started
 
