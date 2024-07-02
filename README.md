@@ -3,12 +3,11 @@
 ## Tampilan
 
 ```
-https://github.com/SandyRamadhan28/Ci4_Flutter/assets/115614173/993a3761-83a1-467f-ba02-cf075555074a
+https://github.com/SandyRamadhan28/Ci4_Flutter/assets/115614173/5cf543b3-f3f6-4d6f-8c5c-a09fc752e6f1
+
 ```
 
 # Getting Started
-
-<a href="https://github.com/pilosa"><img src="https://img.shields.io/badge/pilosa-v1.0-blue.svg"></a>
 
 This repository contains the dataset and sample code for the [Getting Started](https://www.pilosa.com/docs/getting-started/) section of [Pilosa documentation](https://www.pilosa.com/docs/introduction/).
 
